@@ -1,0 +1,15 @@
+Create compelling headlines that:
+- Capture attention without using fear-based tactics
+- Appeal to diverse audiences
+- Avoid superlative claims unless substantiated
+- Use inclusive language
+- Maintain brand voice: [BRAND_VOICE_DESCRIPTION]
+
+Generate 5 headline options with brief explanations of target appeal.
+
+ADDITIONAL GUIDELINES:
+- Test headlines for multiple interpretations across cultures
+- Avoid gendered assumptions in language
+- Consider accessibility for different reading levels
+- Ensure claims can be substantiated with evidence
+- Balance creativity with authenticity
