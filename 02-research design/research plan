@@ -91,25 +91,201 @@ Generative AI is increasingly used to draft advertising copy, creating risks of 
 - **Inclusion Criteria:** English fluency, basic advertising knowledge, stable internet access
 - **Compensation:** Hourly honorarium for participation time
 
+### Participant Tutorial: Chatbot Usage Guide
+
+#### Pre-Study Training Session (60 minutes)
+All participants will complete a comprehensive training session covering:
+
+**1. Platform Overview (15 minutes)**
+- Introduction to the chatbot interface and basic navigation
+- Understanding the three room configurations and their purposes
+- Technical requirements and troubleshooting basics
+
+**2. Ethical Framework Training (20 minutes)**
+- Overview of key ethical principles: beneficence, non-maleficence, autonomy, justice
+- Bias recognition training with examples of problematic vs. appropriate content
+- Cultural sensitivity awareness and inclusive language guidelines
+
+**3. Room-Specific Training (20 minutes)**
+Detailed walkthrough of each chatroom configuration:
+
+**Room A Tutorial: Baseline Control**
+- **Interface:** Standard chat interface with minimal guidance
+- **Input Format:** Provide product details and target demographic
+- **Example Input:** "Create an advertisement for [PRODUCT] targeting [DEMOGRAPHIC]"
+- **Expected Interaction:** Single request-response cycle with minimal iteration
+- **Participant Role:** Content requester with basic oversight for appropriateness
+
+**Room B Tutorial: Systematic Value-Aligned**
+- **Interface:** Enhanced interface with ethical guidelines display
+- **Input Format:** Structured request with ethical considerations pre-loaded
+- **System Features:** Automated bias checking, inclusive language prompts, cultural sensitivity alerts
+- **Participant Role:** Content requester working with ethically-guided AI
+- **Key Features to Note:** Built-in compliance checklists, diversity reminders, claim verification prompts
+
+**Room C Tutorial: Human-in-the-Loop**
+- **Interface:** Collaborative workspace with real-time feedback capabilities
+- **Enhanced Features:** 
+  - Flagging system for ethical concerns
+  - Collaborative refinement tools
+  - Feedback integration mechanism
+  - Learning documentation system
+- **Participant Roles:**
+  - **Content Creator:** Requests content and reviews AI suggestions
+  - **Human Evaluator:** Provides real-time oversight and feedback
+- **Interaction Protocol:**
+  1. Initial content generation request
+  2. AI presents content with confidence levels and flagged concerns
+  3. Human evaluator reviews and provides feedback if needed
+  4. Iterative refinement based on human input
+  5. Final approval and learning documentation
+
+**4. Practice Session (5 minutes)**
+- Hands-on practice with sample advertisement generation in each room
+- Q&A and troubleshooting
+
+#### Room-Specific Usage Instructions
+
+##### Room A: Baseline Control Usage
+**Step 1: Content Request**
+```
+Input Template:
+"Create an advertisement for [PRODUCT/SERVICE] targeting [TARGET DEMOGRAPHIC]. 
+Include: headline, body copy (50-80 words), and call-to-action."
+```
+
+**Step 2: Review Output**
+- Check for general appropriateness and coherence
+- Ensure content addresses the specified demographic
+- Note any obvious quality issues
+
+**Step 3: Documentation**
+- Record timestamp and input details
+- Save generated content with demographic labels
+- Note any immediate concerns for later evaluation
+
+##### Room B: Systematic Value-Aligned Usage
+**Step 1: Enhanced Content Request**
+```
+Input Template:
+"Create an ethical, inclusive advertisement for [PRODUCT/SERVICE] targeting [TARGET DEMOGRAPHIC].
+Requirements: Use inclusive language, avoid stereotypes, ensure truthful claims, consider cultural sensitivity.
+Format: headline, body copy (50-80 words), call-to-action, compliance checklist."
+```
+
+**Step 2: Review Ethical Compliance**
+- Check automated compliance checklist provided by AI
+- Verify inclusive language usage
+- Review cultural sensitivity indicators
+- Confirm claim accuracy and appropriateness
+
+**Step 3: Quality Assessment**
+- Evaluate advertisement effectiveness alongside ethical compliance
+- Note balance between ethics and persuasiveness
+- Document any trade-offs observed
+
+##### Room C: Human-in-the-Loop Usage
+**Step 1: Collaborative Content Request**
+```
+Input Template:
+"Working collaboratively, create an ethical advertisement for [PRODUCT/SERVICE] targeting [TARGET DEMOGRAPHIC].
+Please flag any concerns and provide confidence levels for ethical appropriateness.
+Include alternative approaches for any uncertain elements."
+```
+
+**Step 2: AI Initial Response Review**
+AI will provide:
+- Generated advertisement content
+- Confidence level (1-10) for ethical appropriateness
+- Flagged areas of concern or uncertainty
+- Alternative approaches for problematic elements
+- Specific questions for human evaluator input
+
+**Step 3: Human Evaluator Feedback Process**
+For participants serving as human evaluators:
+
+**Immediate Review Checklist:**
+- [ ] Check for stereotypes or biased assumptions
+- [ ] Verify cultural appropriateness for target demographic
+- [ ] Assess claim accuracy and substantiation
+- [ ] Evaluate inclusive language usage
+- [ ] Consider accessibility and readability
+
+**Feedback Format:**
+```
+Feedback Template:
+Issue Identified: [Specific problem description]
+Concern Level: [Low/Medium/High/Critical]
+Suggested Revision: [Concrete alternative text]
+Rationale: [Why this change improves ethical alignment]
+Learning Note: [Guidance for future similar situations]
+```
+
+**Step 4: Iterative Refinement**
+- AI incorporates human feedback
+- Generates revised content addressing concerns
+- Process repeats until satisfactory ethical alignment achieved
+- Maximum 3 iteration cycles per advertisement
+
+**Step 5: Learning Documentation**
+- Record all feedback provided and AI responses
+- Note patterns in ethical concerns
+- Document improvement trajectories over time
+- Update collaborative guidelines based on insights
+
+#### Technical Instructions
+
+**Platform Access:**
+- Access via secure web browser (Chrome, Firefox, Edge recommended)
+- Unique login credentials provided per participant
+- Session timeout after 60 minutes of inactivity
+
+**Data Logging:**
+- All interactions automatically logged with timestamps
+- Content saved in real-time to prevent data loss
+- Backup systems in place for technical failures
+
+**Quality Assurance:**
+- Regular check-ins with research team during content generation
+- Technical support available during all sessions
+- Clear escalation procedures for platform issues
+
+#### Troubleshooting Guide
+
+**Common Issues and Solutions:**
+- **AI not responding:** Refresh browser, check internet connection
+- **Content seems inappropriate:** Flag for immediate researcher review
+- **Technical glitches:** Use backup system, contact technical support
+- **Ethical uncertainty:** Escalate to senior researcher for guidance
+
+**Emergency Contacts:**
+- Technical Support: [Contact information]
+- Research Team Lead: [Contact information]
+- IRB Emergency Contact: [Contact information]
+
 ### Procedure Timeline
 **Phase 1: Setup and Training (Week 1)**
 - Participant orientation and consent
-- Training on ethical guidelines and evaluation criteria  
+- Comprehensive tutorial session (60 minutes)
 - Platform familiarization and practice sessions
+- Ethical framework training and bias recognition
 
 **Phase 2: Content Generation (Weeks 2-4)**
 - Systematic content generation across all three room configurations
 - Room C participants provide real-time human oversight
 - All outputs logged with timestamps and configuration details
+- Weekly check-ins for feedback and troubleshooting
 
 **Phase 3: Evaluation and Analysis (Weeks 5-6)**
 - Blinded evaluation of all generated content
 - Cross-participant rating to minimize self-bias
 - Automated bias detection and metrics calculation
+- Tutorial effectiveness assessment
 
 **Phase 4: Debriefing and Validation (Week 7)**
-- Participant feedback sessions
-- Qualitative insights on usability and effectiveness
+- Participant feedback sessions on tutorial effectiveness
+- Qualitative insights on usability and platform experience
+- Suggestions for tutorial improvements
 - External expert validation of findings
 
 ## Measurement Framework
