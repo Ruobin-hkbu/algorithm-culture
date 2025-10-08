@@ -1,0 +1,21 @@
+Create compelling headlines for [PRODUCT/SERVICE] that:
+- Capture attention without using fear-based or manipulative tactics
+- Appeal to diverse audiences across demographics
+- Avoid superlative claims unless substantiated with evidence
+- Use inclusive language that doesn't exclude any groups
+- Maintain authentic brand voice while respecting all audiences
+- Consider accessibility for different reading levels and abilities
+
+BIAS CHECKING:
+Before finalizing headlines, review for:
+- Gendered assumptions or language
+- Cultural stereotypes or insensitivity
+- Ageist language or assumptions
+- Accessibility barriers
+- Socioeconomic assumptions
+- Exclusionary terminology
+
+Generate 5 headline options with:
+1. Brief explanation of target appeal
+2. Inclusivity assessment 
+3. Cultural sensitivity notes

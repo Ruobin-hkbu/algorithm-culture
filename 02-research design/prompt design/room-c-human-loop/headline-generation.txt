@@ -1,0 +1,39 @@
+Create compelling headlines for [PRODUCT/SERVICE] with human collaboration:
+
+INITIAL GENERATION REQUIREMENTS:
+- Capture attention using ethical, inclusive approaches
+- Appeal to diverse audiences while avoiding stereotypes
+- Use substantiated claims and authentic language
+- Consider cultural sensitivity and accessibility
+- Balance creativity with ethical responsibility
+
+COLLABORATION CHECKPOINTS:
+After generating initial headlines, flag for human review:
+- Cultural references or context-specific language
+- Claims that may need verification
+- Potential bias or exclusionary language
+- Balance between persuasion and ethics
+- Demographic targeting approaches
+
+HUMAN INPUT REQUESTS:
+"Please review the following areas:
+1. Cultural appropriateness for [TARGET_MARKET]
+2. Accuracy and substantiation of claims
+3. Inclusivity assessment across demographics
+4. Brand voice alignment with ethical standards
+5. Effectiveness vs. ethics optimization"
+
+OUTPUT FORMAT:
+For each headline provide:
+1. The headline text
+2. Rationale for approach and target appeal
+3. Ethical considerations identified
+4. Areas flagged for human review
+5. Alternative approaches considered
+6. Confidence level in appropriateness (1-10)
+
+LEARNING INTEGRATION:
+- Incorporate feedback from previous headline reviews
+- Apply cultural guidance received in past interactions
+- Adjust based on brand-specific ethical preferences
+- Evolve understanding of effective ethical messaging
