@@ -1,0 +1,130 @@
+# Literature Review for Algorithm-Culture Project
+
+## Project Overview
+This literature review supports the study investigating how prompt design influences the outputs of a generative AI advertisement writing assistant and examines whether human adjustments to a systematic value-aligned prompt can mitigate bias.
+
+## Core Literature Review Recommendations
+
+### 1. Generative AI and Large Language Models
+
+**Bommasani, R., et al. (2021).** "On the Opportunities and Risks of Foundation Models." *arXiv preprint arXiv:2108.07258.*
+
+**Brown, T., et al. (2020).** "Language Models are Few-Shot Learners." *Advances in Neural Information Processing Systems, 33.*
+
+**Qiu, X., et al. (2020).** "Pre-trained Models for Natural Language Processing: A Survey." *Science China Technological Sciences, 63(10).*
+
+**Rogers, A., et al. (2020).** "A Primer on Neural Network Models for Natural Language Processing." *Journal of Artificial Intelligence Research, 57.*
+
+### 2. Prompt Engineering and Design
+
+**Liu, P., et al. (2023).** "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing." *ACM Computing Surveys, 55(9).*
+
+**White, J., et al. (2023).** "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT." *arXiv preprint arXiv:2302.11382.*
+
+**Zhou, Y., et al. (2022).** "Large Language Models Are Human-Level Prompt Engineers." *arXiv preprint arXiv:2211.01910.*
+
+**Wei, J., et al. (2022).** "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models." *Advances in Neural Information Processing Systems, 35.*
+
+### 3. AI Bias and Fairness
+
+**Bender, E. M., et al. (2021).** "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.*
+
+**Bolukbasi, T., et al. (2016).** "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings." *Advances in Neural Information Processing Systems, 29.*
+
+**Shah, D., et al. (2020).** "Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview." *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.*
+
+**Larson, B. (2017).** "Gender as a Variable in Natural-Language Processing: Ethical Considerations." *Proceedings of the First ACL Workshop on Ethics in Natural Language Processing.*
+
+### 4. Value Alignment in AI Systems
+
+**Russell, S. (2019).** "Human Compatible: Artificial Intelligence and the Problem of Control." *Viking Press.*
+
+**Christiano, P., et al. (2017).** "Deep Reinforcement Learning from Human Feedback." *Advances in Neural Information Processing Systems, 30.*
+
+**Kenton, Z., et al. (2021).** "Alignment of Language Agents." *arXiv preprint arXiv:2103.14659.*
+
+**Gabriel, I. (2020).** "Artificial Intelligence, Values, and Alignment." *Minds and Machines, 30(3).*
+
+### 5. AI in Advertising and Marketing
+
+**Davenport, T., et al. (2020).** "How Artificial Intelligence Will Change the Future of Marketing." *Journal of the Academy of Marketing Science, 48(1).*
+
+**Kumar, V., et al. (2019).** "Artificial Intelligence in Marketing: A Framework, Applications and Research Agenda." *International Journal of Research in Marketing, 36(1).*
+
+**Huang, M. H., & Rust, R. T. (2018).** "Artificial Intelligence in Service." *Journal of Service Research, 21(2).*
+
+**Ma, L., & Sun, B. (2020).** "Machine Learning and AI in Marketing–Connecting Computing Power to Human Insights." *International Journal of Research in Marketing, 37(3).*
+
+### 6. Human-AI Collaboration
+
+**Amershi, S., et al. (2019).** "Guidelines for Human-AI Interaction." *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems.*
+
+**Bansal, G., et al. (2019).** "Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance." *Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, 7.*
+
+**Zhang, Y., et al. (2020).** "Effect of Confidence and Explanation on Accuracy and Trust Calibration in AI-Assisted Decision Making." *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.*
+
+### 7. Evaluation Methodologies for AI Content Generation
+
+**Celikyilmaz, A., et al. (2020).** "Evaluation of Text Generation: A Survey." *arXiv preprint arXiv:2006.14799.*
+
+**Gehrmann, S., et al. (2022).** "The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics." *Proceedings of the 1st Workshop on Natural Language Generation, Evaluation, and Metrics.*
+
+**Novikova, J., et al. (2017).** "Why We Need New Evaluation Metrics for NLG." *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing.*
+
+### 8. Ethics in AI and NLP
+
+**Floridi, L., et al. (2018).** "AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations." *Minds and Machines, 28(4).*
+
+**Jobin, A., et al. (2019).** "The Global Landscape of AI Ethics Guidelines." *Nature Machine Intelligence, 1(9).*
+
+**Hovy, D., & Spruit, S. L. (2016).** "The Social Impact of Natural Language Processing." *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics.*
+
+### 9. Methodological References
+
+**Denzin, N. K., & Lincoln, Y. S. (2017).** "The SAGE Handbook of Qualitative Research." *Sage Publications.*
+
+**Creswell, J. W., & Creswell, J. D. (2017).** "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches." *Sage Publications.*
+
+**Field, A. (2017).** "Discovering Statistics Using IBM SPSS Statistics." *Sage Publications.*
+
+### 10. Recent Developments (2023-2024)
+
+**OpenAI. (2023).** "GPT-4 Technical Report." *arXiv preprint arXiv:2303.08774.*
+
+**Anthropic. (2022).** "Constitutional AI: Harmlessness from AI Feedback." *arXiv preprint arXiv:2212.08073.*
+
+**Ouyang, L., et al. (2022).** "Training Language Models to Follow Instructions with Human Feedback." *Advances in Neural Information Processing Systems, 35.*
+
+**Stiennon, N., et al. (2020).** "Learning to Summarize with Human Feedback." *Advances in Neural Information Processing Systems, 33.*
+
+## Additional Specialized Areas to Consider
+
+### Cultural and Cross-Cultural Studies
+- Literature on cultural bias in AI systems
+- Cross-cultural advertising effectiveness
+- Cultural value systems and their representation in AI
+
+### Linguistic and Discourse Analysis
+- Computational discourse analysis
+- Persuasive language in advertising
+- Natural language generation evaluation
+
+### Regulatory and Legal Frameworks
+- AI governance and regulation
+- Advertising standards and ethics
+- Data protection and AI transparency laws
+
+## Research Gaps and Opportunities
+
+This literature review provides a foundation for understanding the current state of research in:
+- Prompt engineering for generative AI
+- Value alignment and bias mitigation
+- AI applications in advertising and marketing
+- Human-AI collaboration frameworks
+- Evaluation methodologies for AI-generated content
+
+The intersection of these areas presents opportunities for novel contributions to the field, particularly in developing systematic approaches to value-aligned prompt design and measuring the effectiveness of bias mitigation strategies in commercial AI applications.
+
+---
+*Last updated: October 8, 2025*
+*Created for: Algorithm-Culture Research Project*
