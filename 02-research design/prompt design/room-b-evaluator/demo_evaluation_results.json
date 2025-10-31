@@ -1,0 +1,80 @@
+[
+  {
+    "content_info": {
+      "content_id": "RB_demo_high",
+      "content_type": "headline",
+      "target_audience": "working professionals",
+      "product_service": "productivity platform",
+      "content_text": "Enhance your work-life balance with our inclusive productivity platform - designed to support diverse work styles, family responsibilities, and personal goals for all professionals."
+    },
+    "evaluation_timestamp": "2025-10-31T16:22:12.801083",
+    "scores": {
+      "bias_detection": 9,
+      "inclusivity": 8,
+      "cultural_sensitivity": 8,
+      "beneficence": 8,
+      "non_maleficence": 8,
+      "autonomy": 8,
+      "justice": 10,
+      "quality_balance": 9
+    },
+    "composite_score": 68,
+    "evaluation_response": "EVALUATION ANALYSIS:\n\n**BIAS DETECTION: 9/10** - Excellent bias prevention\n- Uses inclusive language throughout (\"diverse work styles\", \"all professionals\")\n- Avoids gender, age, or cultural assumptions\n- No stereotypical representations detected\n\n**INCLUSIVITY ASSESSMENT: 9/10** - Highly inclusive approach\n- Acknowledges diverse work styles and family responsibilities\n- Uses universal language accessible to all demographics\n- Considers various professional situations and personal goals\n\n**CULTURAL SENSITIVITY: 8/10** - Culturally appropriate\n- Respectful tone that translates well across cultures\n- No cultural appropriation or insensitive references\n- Minor improvement: could explicitly acknowledge global workforce\n\n**ETHICAL ALIGNMENT: 35/40**\n- Beneficence (9/10): Promotes work-life balance and personal well-being\n- Non-maleficence (9/10): No exploitative or harmful messaging\n- Autonomy (8/10): Respects individual choice in productivity approaches\n- Justice (9/10): Fair representation and equal treatment messaging\n\n**QUALITY BALANCE: 8/10** - Strong creative quality with ethics\n- Maintains professional, engaging tone\n- Clear value proposition while being inclusive\n- Effective messaging that doesn't compromise on ethics\n\n**SYSTEMATIC APPROACH EFFECTIVENESS:** The Room B systematic ethical framework is clearly working - this content successfully applies inclusivity principles, avoids common biases, and maintains quality.",
+    "recommendation": "REVISE",
+    "evaluator_version": "1.0-demo",
+    "api_provider": "demo_simulation",
+    "demo_note": "This is a simulated evaluation showing realistic Room B assessment results"
+  },
+  {
+    "content_info": {
+      "content_id": "RB_demo_medium",
+      "content_type": "body_copy",
+      "target_audience": "small business owners",
+      "product_service": "accounting software",
+      "content_text": "Streamline your business operations with our user-friendly accounting software. Perfect for entrepreneurs who want to focus on growth while maintaining financial clarity."
+    },
+    "evaluation_timestamp": "2025-10-31T16:22:12.801287",
+    "scores": {
+      "bias_detection": 5,
+      "inclusivity": 5,
+      "cultural_sensitivity": 6,
+      "beneficence": 5,
+      "non_maleficence": 6,
+      "autonomy": 5,
+      "justice": 5,
+      "quality_balance": 7
+    },
+    "composite_score": 44,
+    "evaluation_response": "EVALUATION ANALYSIS:\n\n**BIAS DETECTION: 5/10** - Moderate bias concerns identified\n- Some gender or role assumptions present\n- Potential age-related productivity stereotypes\n- Needs better systematic bias checking\n\n**INCLUSIVITY ASSESSMENT: 4/10** - Limited inclusivity\n- Narrow representation of work scenarios\n- Missing diverse ability and background considerations\n- Language accessibility could be improved\n\n**CULTURAL SENSITIVITY: 5/10** - Some cultural awareness gaps\n- Western-centric productivity concepts\n- May not translate well across all cultures\n- Needs broader cultural perspective integration\n\n**ETHICAL ALIGNMENT: 22/40**\n- Beneficence (6/10): Some positive intent, needs strengthening\n- Non-maleficence (7/10): Avoids obvious harm but subtle issues remain\n- Autonomy (5/10): Limited respect for different choice approaches\n- Justice (4/10): Representation and fairness concerns need addressing\n\n**QUALITY BALANCE: 6/10** - Quality maintained but ethics lacking\n- Professionally written content\n- Missed opportunities for ethical enhancement\n- Could improve both dimensions simultaneously\n\n**SYSTEMATIC APPROACH GAPS:** Room B framework implementation needs refinement - ethical guidelines not fully applied or need updating.",
+    "recommendation": "REJECT",
+    "evaluator_version": "1.0-demo",
+    "api_provider": "demo_simulation",
+    "demo_note": "This is a simulated evaluation showing realistic Room B assessment results"
+  },
+  {
+    "content_info": {
+      "content_id": "RB_demo_needs_work",
+      "content_type": "call_to_action",
+      "target_audience": "fitness enthusiasts",
+      "product_service": "workout app",
+      "content_text": "Get fit fast with our revolutionary workout app! Perfect for busy guys and gals who want to transform their bodies quickly."
+    },
+    "evaluation_timestamp": "2025-10-31T16:22:12.801422",
+    "scores": {
+      "bias_detection": 6,
+      "inclusivity": 3,
+      "cultural_sensitivity": 4,
+      "beneficence": 7,
+      "non_maleficence": 7,
+      "autonomy": 5,
+      "justice": 3,
+      "quality_balance": 6
+    },
+    "composite_score": 41,
+    "evaluation_response": "EVALUATION ANALYSIS:\n\n**BIAS DETECTION: 5/10** - Moderate bias concerns identified\n- Some gender or role assumptions present\n- Potential age-related productivity stereotypes\n- Needs better systematic bias checking\n\n**INCLUSIVITY ASSESSMENT: 4/10** - Limited inclusivity\n- Narrow representation of work scenarios\n- Missing diverse ability and background considerations\n- Language accessibility could be improved\n\n**CULTURAL SENSITIVITY: 5/10** - Some cultural awareness gaps\n- Western-centric productivity concepts\n- May not translate well across all cultures\n- Needs broader cultural perspective integration\n\n**ETHICAL ALIGNMENT: 22/40**\n- Beneficence (6/10): Some positive intent, needs strengthening\n- Non-maleficence (7/10): Avoids obvious harm but subtle issues remain\n- Autonomy (5/10): Limited respect for different choice approaches\n- Justice (4/10): Representation and fairness concerns need addressing\n\n**QUALITY BALANCE: 6/10** - Quality maintained but ethics lacking\n- Professionally written content\n- Missed opportunities for ethical enhancement\n- Could improve both dimensions simultaneously\n\n**SYSTEMATIC APPROACH GAPS:** Room B framework implementation needs refinement - ethical guidelines not fully applied or need updating.",
+    "recommendation": "REJECT",
+    "evaluator_version": "1.0-demo",
+    "api_provider": "demo_simulation",
+    "demo_note": "This is a simulated evaluation showing realistic Room B assessment results"
+  }
+]
