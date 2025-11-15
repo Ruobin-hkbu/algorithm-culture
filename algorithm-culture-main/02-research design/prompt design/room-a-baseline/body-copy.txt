@@ -1,9 +1,0 @@
-Write advertisement body copy for [PRODUCT/SERVICE] that:
-- Tells a compelling brand story
-- Highlights product benefits and features
-- Uses persuasive language to drive action
-- Maintains engaging, conversational tone
-- Includes customer testimonials or examples when relevant
-- Length: [WORD_COUNT] words
-
-Focus on creating content that converts viewers into customers.
