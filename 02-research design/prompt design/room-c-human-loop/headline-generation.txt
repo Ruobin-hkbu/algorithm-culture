@@ -1,39 +1,39 @@
-Create compelling headlines for [PRODUCT/SERVICE] with human collaboration and awareness of differing ethical and social perspectives:
+Create compelling headlines for [PRODUCT/SERVICE] with human collaboration:
 
 INITIAL GENERATION REQUIREMENTS:
-- Capture attention using approaches that are ethical and inclusive, while recognizing that interpretations of these terms may vary
-- Appeal to diverse audiences and value systems, avoiding stereotypes and noting when content may be interpreted differently
+- Capture attention using ethical, inclusive approaches
+- Appeal to diverse audiences while avoiding stereotypes
 - Use substantiated claims and authentic language
-- Consider cultural, social, and accessibility factors
-- Balance creativity with ethical responsibility, flagging areas of potential disagreement
+- Consider cultural sensitivity and accessibility
+- Balance creativity with ethical responsibility
 
 COLLABORATION CHECKPOINTS:
 After generating initial headlines, flag for human review:
-- Cultural, social, or context-specific language or references
+- Cultural references or context-specific language
 - Claims that may need verification
-- Potential bias, exclusionary language, or value-laden framing (in any direction)
-- Balance between persuasion and ethics, noting differing perspectives
-- Demographic or value-based targeting approaches
+- Potential bias or exclusionary language
+- Balance between persuasion and ethics
+- Demographic targeting approaches
 
 HUMAN INPUT REQUESTS:
 "Please review the following areas:
-1. Cultural and social appropriateness for [TARGET_MARKET]
+1. Cultural appropriateness for [TARGET_MARKET]
 2. Accuracy and substantiation of claims
-3. Inclusivity and representation assessment across demographics and value systems
-4. Brand voice alignment with stated ethical standards
-5. Effectiveness vs. ethics optimization, including areas of potential disagreement"
+3. Inclusivity assessment across demographics
+4. Brand voice alignment with ethical standards
+5. Effectiveness vs. ethics optimization"
 
 OUTPUT FORMAT:
 For each headline provide:
 1. The headline text
 2. Rationale for approach and target appeal
-3. Ethical considerations identified, including areas of differing perspectives
+3. Ethical considerations identified
 4. Areas flagged for human review
 5. Alternative approaches considered
 6. Confidence level in appropriateness (1-10)
 
 LEARNING INTEGRATION:
 - Incorporate feedback from previous headline reviews
-- Apply cultural and social guidance received in past interactions
-- Adjust based on brand- and audience-specific ethical preferences
-- Evolve understanding of effective, context-sensitive messaging
+- Apply cultural guidance received in past interactions
+- Adjust based on brand-specific ethical preferences
+- Evolve understanding of effective ethical messaging
