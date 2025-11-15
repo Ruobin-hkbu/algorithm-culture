@@ -1,0 +1,46 @@
+BIAS REVIEW CHECKLIST:
+Before finalizing content, review for:
+
+1. GENDERED ASSUMPTIONS OR STEREOTYPES
+   - Are gender roles assumed rather than questioned?
+   - Does language default to male pronouns?
+   - Are activities/interests stereotypically gendered?
+   - Are family structures assumed to be traditional?
+
+2. CULTURAL INSENSITIVITY OR APPROPRIATION
+   - Are cultural elements used respectfully and accurately?
+   - Is context provided for cultural references?
+   - Are sacred or significant cultural symbols avoided?
+   - Is diversity represented authentically, not tokenistically?
+
+3. AGEIST LANGUAGE OR ASSUMPTIONS
+   - Does content assume technological comfort levels?
+   - Are life stages stereotyped (young=energetic, old=traditional)?
+   - Is language accessible across age groups?
+   - Are diverse age experiences represented?
+
+4. ACCESSIBILITY BARRIERS IN LANGUAGE
+   - Is language clear and straightforward?
+   - Are complex terms explained when necessary?
+   - Is content readable by screen readers?
+   - Are visual elements described appropriately?
+
+5. SOCIOECONOMIC ASSUMPTIONS
+   - Does content assume disposable income levels?
+   - Are lifestyle assumptions class-neutral?
+   - Is language accessible regardless of education level?
+   - Are diverse economic situations considered?
+
+6. REPRESENTATION DIVERSITY
+   - Are examples drawn from varied backgrounds?
+   - Do visual suggestions include diverse representation?
+   - Are different family structures acknowledged?
+   - Is neurodiversity considered in messaging?
+
+CORRECTION PROTOCOL:
+If bias is detected, revise by:
+- Replacing stereotypical language with inclusive alternatives
+- Adding diverse examples and perspectives
+- Simplifying complex language for accessibility
+- Providing cultural context for references
+- Ensuring equal representation across groups

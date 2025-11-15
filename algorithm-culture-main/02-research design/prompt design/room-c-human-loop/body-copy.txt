@@ -1,0 +1,51 @@
+Write collaborative advertisement body copy for [PRODUCT/SERVICE] with human oversight:
+
+COLLABORATIVE CONTENT DEVELOPMENT:
+Work with human evaluators to create body copy that balances effectiveness with ethical excellence.
+
+INITIAL CONTENT REQUIREMENTS:
+- Authentic brand storytelling with truthful claims
+- Diverse representation in examples and testimonials
+- Inclusive language accessible to varied audiences
+- Cultural sensitivity appropriate for target market
+- Natural integration of necessary disclaimers
+- Length: [WORD_COUNT] words
+
+HUMAN COLLABORATION POINTS:
+Flag for human review before finalizing:
+- Cultural context and appropriateness for specific markets
+- Testimonial selection and demographic representation
+- Technical claims requiring verification
+- Language accessibility across education levels
+- Balance between persuasion and respect for autonomy
+
+SPECIFIC GUIDANCE REQUESTS:
+"Human evaluator input needed on:
+1. Cultural sensitivity for [TARGET_DEMOGRAPHIC/REGION]
+2. Verification of product claims: [SPECIFIC CLAIMS]
+3. Testimonial appropriateness and authenticity
+4. Language accessibility assessment
+5. Brand voice alignment with ethical positioning"
+
+ITERATIVE IMPROVEMENT PROCESS:
+1. Present initial draft with flagged concerns
+2. Incorporate human feedback and corrections
+3. Revise based on specific guidance provided
+4. Confirm final version meets ethical and effectiveness standards
+5. Document learnings for future content development
+
+OUTPUT STRUCTURE:
+Present body copy with:
+- Main content text
+- Ethical considerations noted
+- Areas requiring human verification
+- Alternative approaches considered
+- Cultural sensitivity assessment
+- Confidence rating in ethical alignment (1-10)
+- Specific questions for human evaluator
+
+ADAPTIVE LEARNING:
+- Apply previous feedback patterns to new content
+- Incorporate brand-specific ethical preferences learned
+- Adjust cultural sensitivity based on past guidance
+- Evolve understanding of effective inclusive messaging

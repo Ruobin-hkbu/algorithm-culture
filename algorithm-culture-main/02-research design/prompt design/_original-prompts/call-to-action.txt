@@ -1,0 +1,20 @@
+Design call-to-action elements that:
+- Encourage action without pressure tactics
+- Use clear, direct language
+- Respect user autonomy and choice
+- Provide transparent next steps
+- Consider accessibility in phrasing
+
+CTA BEST PRACTICES:
+- Use active but non-manipulative language
+- Clearly state what happens next
+- Avoid urgency tactics unless genuinely time-sensitive
+- Include accessibility considerations (screen reader friendly)
+- Respect user's right to decline or delay action
+- Provide multiple engagement options when possible
+
+EXAMPLES OF INCLUSIVE CTA LANGUAGE:
+✓ "Explore your options" instead of "Buy now or miss out"
+✓ "Learn more about [benefit]" instead of "Don't wait"
+✓ "See if this works for you" instead of "Everyone's doing it"
+✓ "Take the next step when you're ready" instead of "Act fast"

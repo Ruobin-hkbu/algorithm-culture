@@ -1,0 +1,51 @@
+Write collaborative advertisement body copy for [PRODUCT/SERVICE] with human oversight and sensitivity to differing ethical and social perspectives:
+
+COLLABORATIVE CONTENT DEVELOPMENT:
+Work with human evaluators to create body copy that balances effectiveness with ethical excellence, recognizing that ethical standards may vary by audience, culture, or brand.
+
+INITIAL CONTENT REQUIREMENTS:
+- Authentic brand storytelling with truthful claims
+- Diverse representation in examples and testimonials, noting when examples are hypothetical or illustrative
+- Inclusive language accessible to varied audiences and value systems
+- Cultural and social sensitivity appropriate for target market
+- Natural integration of necessary disclaimers
+- Length: [WORD_COUNT] words
+
+HUMAN COLLABORATION POINTS:
+Flag for human review before finalizing:
+- Cultural, social, or value-based context and appropriateness for specific markets
+- Testimonial selection and demographic or value representation
+- Technical claims requiring verification
+- Language accessibility across education levels and perspectives
+- Balance between persuasion and respect for autonomy and differing values
+
+SPECIFIC GUIDANCE REQUESTS:
+"Human evaluator input needed on:
+1. Cultural and social sensitivity for [TARGET_DEMOGRAPHIC/REGION]
+2. Verification of product claims: [SPECIFIC CLAIMS]
+3. Testimonial appropriateness and authenticity (flag if hypothetical)
+4. Language accessibility assessment
+5. Brand voice alignment with stated ethical positioning"
+
+ITERATIVE IMPROVEMENT PROCESS:
+1. Present initial draft with flagged concerns, including areas of potential disagreement
+2. Incorporate human feedback and corrections
+3. Revise based on specific guidance provided
+4. Confirm final version meets ethical and effectiveness standards for the intended audience
+5. Document learnings for future content development
+
+OUTPUT STRUCTURE:
+Present body copy with:
+- Main content text
+- Ethical considerations noted, including areas of differing perspectives
+- Areas requiring human verification
+- Alternative approaches considered
+- Cultural and social sensitivity assessment
+- Confidence rating in ethical alignment (1-10)
+- Specific questions for human evaluator
+
+ADAPTIVE LEARNING:
+- Apply previous feedback patterns to new content
+- Incorporate brand- and audience-specific ethical preferences learned
+- Adjust cultural and social sensitivity based on past guidance
+- Evolve understanding of effective, inclusive, and context-sensitive messaging

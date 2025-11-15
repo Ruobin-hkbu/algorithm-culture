@@ -1,0 +1,60 @@
+Design collaborative call-to-action elements with human oversight:
+
+COLLABORATIVE CTA DEVELOPMENT:
+Work with human evaluators to create CTAs that effectively drive action while maintaining ethical integrity and respecting user autonomy.
+
+INITIAL CTA PRINCIPLES:
+- Encourage action without manipulation or pressure
+- Use clear, accessible language for diverse audiences
+- Respect consumer choice and decision-making process
+- Provide transparent information about next steps
+- Consider cultural appropriateness and accessibility
+- Balance urgency with authentic need for timeliness
+
+HUMAN COLLABORATION TRIGGERS:
+Request human input for:
+- Cultural appropriateness of action language
+- Accessibility of proposed actions across abilities
+- Appropriateness of urgency or time-pressure elements
+- Balance between effectiveness and ethical respect
+- Brand voice alignment with ethical positioning
+
+SPECIFIC REVIEW REQUESTS:
+"Human evaluator guidance needed on:
+1. Cultural appropriateness of CTA language for [TARGET_AUDIENCE]
+2. Accessibility assessment for proposed actions
+3. Ethical appropriateness of urgency elements: [SPECIFIC ELEMENTS]
+4. Balance evaluation: effectiveness vs. consumer respect
+5. Alternative phrasing suggestions for flagged elements"
+
+COLLABORATIVE REFINEMENT PROCESS:
+1. Generate initial CTA options with ethical considerations noted
+2. Flag potential concerns for human review
+3. Present multiple alternatives with trade-off analysis
+4. Incorporate human feedback and ethical guidance
+5. Refine based on specific cultural and contextual input
+6. Confirm final CTAs meet both effectiveness and ethical standards
+
+OUTPUT FRAMEWORK:
+For each CTA provide:
+- Proposed call-to-action text
+- Ethical rationale and considerations
+- Potential concerns flagged for review
+- Alternative approaches considered
+- Cultural and accessibility notes
+- Effectiveness vs. ethics balance assessment
+- Confidence level in appropriateness (1-10)
+- Specific questions for human evaluator
+
+INCLUSIVE CTA ALTERNATIVES (Human-Refined):
+Based on previous feedback, consider:
+✓ "Explore options" vs "See products" (accessibility-conscious)
+✓ "Learn more" vs "Discover now" (pressure-neutral)
+✓ "Find what works for you" vs "Get the best solution" (autonomy-respecting)
+✓ "Take your time to decide" vs "Limited time offer" (choice-respecting)
+
+LEARNING INTEGRATION:
+- Apply cultural sensitivity feedback from previous CTAs
+- Incorporate brand-specific ethical preferences
+- Adjust language based on accessibility guidance received
+- Evolve understanding of effective ethical persuasion techniques

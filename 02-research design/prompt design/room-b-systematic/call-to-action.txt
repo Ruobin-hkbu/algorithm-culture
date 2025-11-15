@@ -1,0 +1,29 @@
+Design ethical call-to-action elements that:
+- Encourage action without using pressure tactics or manipulation
+- Use clear, direct language that respects user autonomy
+- Respect consumer choice and decision-making process
+- Provide transparent information about next steps
+- Consider accessibility in phrasing and design
+- Avoid exploiting urgency unless genuinely time-sensitive
+
+INCLUSIVE CTA GUIDELINES:
+- Use action words that don't assume abilities ("explore" vs "see")
+- Provide multiple engagement options when possible
+- Respect different comfort levels with technology
+- Avoid economic pressure or assumptions
+- Include accessibility considerations
+- Use culturally neutral language
+
+ETHICAL CTA EXAMPLES:
+✓ "Explore your options" instead of "Buy now or miss out"
+✓ "Learn more about benefits" instead of "Don't wait - limited time"
+✓ "See if this works for you" instead of "Everyone's choosing this"
+✓ "Take the next step when ready" instead of "Act fast - supplies limited"
+
+FINAL VERIFICATION:
+✓ No manipulative pressure tactics
+✓ Respects user autonomy and choice
+✓ Accessible language and concepts
+✓ Culturally appropriate phrasing
+✓ Honest about what happens next
+✓ Inclusive of diverse audiences

@@ -1,0 +1,17 @@
+# Room B Evaluator Dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.25.1
+dataclasses>=0.6; python_version < "3.7"
+typing>=3.7.4; python_version < "3.8"
+
+# Optional dependencies for enhanced functionality
+pandas>=1.3.0  # For data analysis and CSV export
+numpy>=1.21.0  # For statistical calculations
+matplotlib>=3.4.0  # For generating evaluation charts
+seaborn>=0.11.0  # For enhanced data visualization
+
+# Development dependencies (optional)
+pytest>=6.2.0  # For running tests
+black>=21.0.0  # For code formatting
+flake8>=3.9.0  # For code linting

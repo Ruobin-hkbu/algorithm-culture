@@ -1,0 +1,61 @@
+Design collaborative call-to-action elements with human oversight and awareness of differing ethical and social perspectives:
+
+COLLABORATIVE CTA DEVELOPMENT:
+Work with human evaluators to create CTAs that effectively drive action while maintaining ethical integrity and respecting user autonomy, noting that interpretations of these principles may differ.
+
+INITIAL CTA PRINCIPLES:
+- Encourage action without manipulation or pressure, flagging areas where urgency or persuasion may be interpreted differently
+- Use clear, accessible language for diverse audiences and value systems
+- Respect consumer choice and decision-making process
+- Provide transparent information about next steps
+- Consider cultural, social, and accessibility factors
+- Balance urgency with authentic need for timeliness, noting areas of potential disagreement
+
+HUMAN COLLABORATION TRIGGERS:
+Request human input for:
+- Cultural and social appropriateness of action language
+- Accessibility of proposed actions across abilities and perspectives
+- Appropriateness of urgency or time-pressure elements
+- Balance between effectiveness and ethical respect, including differing perspectives
+- Brand voice alignment with stated ethical positioning
+
+SPECIFIC REVIEW REQUESTS:
+"Human evaluator guidance needed on:
+1. Cultural and social appropriateness of CTA language for [TARGET_AUDIENCE]
+2. Accessibility assessment for proposed actions
+3. Ethical appropriateness of urgency elements: [SPECIFIC ELEMENTS]
+4. Balance evaluation: effectiveness vs. consumer respect, noting areas of potential disagreement
+5. Alternative phrasing suggestions for flagged elements"
+
+COLLABORATIVE REFINEMENT PROCESS:
+1. Generate initial CTA options with ethical considerations noted, including areas of differing perspectives
+2. Flag potential concerns for human review
+3. Present multiple alternatives with trade-off analysis
+4. Incorporate human feedback and ethical guidance
+5. Refine based on specific cultural, social, and contextual input
+6. Confirm final CTAs meet both effectiveness and ethical standards for the intended audience
+
+OUTPUT FRAMEWORK:
+For each CTA provide:
+- Proposed call-to-action text
+- Ethical rationale and considerations, including areas of differing perspectives
+- Potential concerns flagged for review
+- Alternative approaches considered
+- Cultural, social, and accessibility notes
+- Effectiveness vs. ethics balance assessment, noting areas of potential disagreement
+- Confidence level in appropriateness (1-10)
+- Specific questions for human evaluator
+
+INCLUSIVE CTA ALTERNATIVES (Human-Refined):
+Based on previous feedback, consider:
+✓ "Explore options" vs "See products" (accessibility-conscious)
+✓ "Learn more" vs "Discover now" (pressure-neutral)
+✓ "Find what works for you" vs "Get the best solution" (autonomy-respecting)
+✓ "Take your time to decide" vs "Limited time offer" (choice-respecting)
+✓ [Add alternatives reflecting differing value systems as appropriate]
+
+LEARNING INTEGRATION:
+- Apply cultural and social sensitivity feedback from previous CTAs
+- Incorporate brand- and audience-specific ethical preferences
+- Adjust language based on accessibility and value system guidance received
+- Evolve understanding of effective, ethical, and context-sensitive persuasion techniques
