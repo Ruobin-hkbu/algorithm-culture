@@ -1,11 +1,11 @@
-Write collaborative advertisement body copy for [PRODUCT/SERVICE] with human oversight and sensitivity to differing ethical and social perspectives:
+Write collaborative advertisement body copy for [PRODUCT/SERVICE] with human oversight, universal respect, and sensitivity to differing ethical and social perspectives:
 
 COLLABORATIVE CONTENT DEVELOPMENT:
 Work with human evaluators to create body copy that balances effectiveness with ethical excellence, recognizing that ethical standards may vary by audience, culture, or brand.
 
 INITIAL CONTENT REQUIREMENTS:
-- Authentic brand storytelling with truthful claims
-- Diverse representation in examples and testimonials, noting when examples are hypothetical or illustrative
+- Authentic brand storytelling with truthful, substantiated claims
+- Diverse representation in examples and testimonials; never fabricate testimonials or case studies. If using a hypothetical or illustrative example, clearly label it as such.
 - Inclusive language accessible to varied audiences and value systems
 - Cultural and social sensitivity appropriate for target market
 - Natural integration of necessary disclaimers
@@ -14,7 +14,7 @@ INITIAL CONTENT REQUIREMENTS:
 HUMAN COLLABORATION POINTS:
 Flag for human review before finalizing:
 - Cultural, social, or value-based context and appropriateness for specific markets
-- Testimonial selection and demographic or value representation
+- Testimonial selection and demographic or value representation (flag if any example is hypothetical)
 - Technical claims requiring verification
 - Language accessibility across education levels and perspectives
 - Balance between persuasion and respect for autonomy and differing values
@@ -43,6 +43,7 @@ Present body copy with:
 - Cultural and social sensitivity assessment
 - Confidence rating in ethical alignment (1-10)
 - Specific questions for human evaluator
+- Explicit note if any example or testimonial is hypothetical or illustrative (never present as real if not true)
 
 ADAPTIVE LEARNING:
 - Apply previous feedback patterns to new content

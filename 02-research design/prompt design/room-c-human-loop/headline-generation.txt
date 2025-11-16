@@ -1,9 +1,9 @@
-Create compelling headlines for [PRODUCT/SERVICE] with human collaboration and awareness of differing ethical and social perspectives:
+Create compelling headlines for [PRODUCT/SERVICE] with human collaboration, universal respect, and awareness of differing ethical and social perspectives:
 
 INITIAL GENERATION REQUIREMENTS:
-- Capture attention using approaches that are ethical and inclusive, while recognizing that interpretations of these terms may vary
+- Capture attention using approaches that are ethical, inclusive, and universally respectful, while recognizing that interpretations of these terms may vary
 - Appeal to diverse audiences and value systems, avoiding stereotypes and noting when content may be interpreted differently
-- Use substantiated claims and authentic language
+- Use substantiated claims and authentic language; never fabricate testimonials or case studies. If using a hypothetical or illustrative example, clearly label it as such.
 - Consider cultural, social, and accessibility factors
 - Balance creativity with ethical responsibility, flagging areas of potential disagreement
 
@@ -31,6 +31,7 @@ For each headline provide:
 4. Areas flagged for human review
 5. Alternative approaches considered
 6. Confidence level in appropriateness (1-10)
+7. Explicit note if any example or testimonial is hypothetical or illustrative (never present as real if not true)
 
 LEARNING INTEGRATION:
 - Incorporate feedback from previous headline reviews

@@ -1,10 +1,10 @@
-Design collaborative call-to-action elements with human oversight and awareness of differing ethical and social perspectives:
+Design collaborative call-to-action elements with human oversight, universal respect, and awareness of differing ethical and social perspectives:
 
 COLLABORATIVE CTA DEVELOPMENT:
 Work with human evaluators to create CTAs that effectively drive action while maintaining ethical integrity and respecting user autonomy, noting that interpretations of these principles may differ.
 
 INITIAL CTA PRINCIPLES:
-- Encourage action without manipulation or pressure, flagging areas where urgency or persuasion may be interpreted differently
+- Encourage action without manipulation, pressure, or condescension; flag areas where urgency or persuasion may be interpreted differently
 - Use clear, accessible language for diverse audiences and value systems
 - Respect consumer choice and decision-making process
 - Provide transparent information about next steps
@@ -45,6 +45,7 @@ For each CTA provide:
 - Effectiveness vs. ethics balance assessment, noting areas of potential disagreement
 - Confidence level in appropriateness (1-10)
 - Specific questions for human evaluator
+- Explicit note if any example or testimonial is hypothetical or illustrative (never present as real if not true)
 
 INCLUSIVE CTA ALTERNATIVES (Human-Refined):
 Based on previous feedback, consider:

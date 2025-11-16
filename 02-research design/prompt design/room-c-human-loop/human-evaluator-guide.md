@@ -38,6 +38,7 @@ Consider:
 #### Ethical Standards Verification
 Confirm:
 - [ ] Truthful and substantiated claims
+- [ ] No fabricated testimonials or case studies (if an example is hypothetical or illustrative, it must be clearly labeled as such)
 - [ ] Respect for consumer autonomy
 - [ ] Non-exploitative messaging
 - [ ] Appropriate disclaimers included
