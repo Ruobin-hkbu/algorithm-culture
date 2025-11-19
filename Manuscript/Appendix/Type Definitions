@@ -1,0 +1,150 @@
+// Room C Type Definitions
+
+export type RequestStatus = 'pending' | 'generating' | 'awaiting_evaluation' | 'approved' | 'rejected';
+
+export type CampaignGoal = 'awareness' | 'lead_gen' | 'sign_ups' | 'appointments' | 'other';
+
+export type EvaluationDecision = 'approve' | 'rewrite' | 'reject';
+
+export type Severity = 'low' | 'medium' | 'high';
+
+export type RiskTag = 
+  | 'stigmatizing-language'
+  | 'medical-guarantees'
+  | 'exploitation-of-vulnerability'
+  | 'misleading-claims'
+  | 'privacy-sensitive-targeting'
+  | 'regulatory-noncompliance'
+  | 'discriminatory-targeting'
+  | 'body-shaming'
+  | 'financial-manipulation'
+  | 'targeted-vulnerable-appeal'
+  | 'urgency-manipulation'
+  | 'fear-based-appeal'
+  | 'age-targeting';
+
+export interface CopyRequest {
+  id: string;
+  requester_user_id: string;
+  product_name: string;
+  product_description: string;
+  target_audience: string;
+  campaign_goal: CampaignGoal;
+  desired_tone: string;
+  length_specification: string;
+  legal_requirements?: string;
+  content_restrictions?: string;
+  brand_guidelines?: string;
+  status: RequestStatus;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface EvaluatorNote {
+  ethics_score: number;
+  risk_tags: RiskTag[];
+  inclusivity_assessment: string;
+  suggested_edits: string;
+}
+
+export interface CopyCandidate {
+  id: string;
+  request_id: string;
+  candidate_id: 'A' | 'B' | 'C';
+  headline: string;
+  body: string;
+  cta: string;
+  why_explanation: string;
+  ethics_score_estimate: number;
+  risk_tags: RiskTag[];
+  suggested_edits: string;
+  publish_recommendation: 'Yes' | 'No';
+  publish_recommendation_rationale: string;
+  created_at: string;
+}
+
+export interface Evaluation {
+  id: string;
+  candidate_id: string;
+  evaluator_user_id: string;
+  rating_respectfulness: number;
+  rating_inclusivity: number;
+  rating_honesty: number;
+  rating_sensitivity: number;
+  rating_autonomy: number;
+  rating_professional_quality: number;
+  rating_overall_ethics: number;
+  risk_tags_checked: RiskTag[];
+  severity?: Severity;
+  suggested_edits_original?: string;
+  suggested_edits_replacement?: string;
+  suggested_edits_rationale?: string;
+  decision: EvaluationDecision;
+  decision_rationale: string;
+  quick_fix_alternative?: string;
+  time_spent_seconds: number;
+  flag_for_senior_review: boolean;
+  iteration_number: number;
+  created_at: string;
+}
+
+export interface AuditLogEntry {
+  id: string;
+  request_id: string;
+  action: 'submitted' | 'generated' | 'evaluated' | 'approved' | 'rejected' | 'flagged';
+  actor_user_id: string;
+  actor_role: 'requester' | 'assistant' | 'evaluator';
+  details: Record<string, any>;
+  timestamp: string;
+}
+
+// AI Assistant Response Format
+export interface AssistantOption {
+  id: 'A' | 'B' | 'C';
+  headline: string;
+  body: string;
+  cta: string;
+  why: string;
+  evaluator_note: EvaluatorNote;
+  publish_recommendation: 'Yes' | 'No';
+  publish_recommendation_rationale: string;
+  final_for_publish: 'Yes' | 'No';
+}
+
+export interface AssistantResponse {
+  brief_confirmed: string;
+  options: AssistantOption[];
+  assistant_summary: string;
+}
+
+// Form Data Types
+export interface CopyRequestFormData {
+  product_name: string;
+  product_description: string;
+  target_audience: string;
+  campaign_goal: CampaignGoal;
+  desired_tone: string;
+  length_specification: string;
+  legal_requirements?: string;
+  content_restrictions?: string;
+  brand_guidelines?: string;
+}
+
+export interface EvaluationFormData {
+  rating_respectfulness: number;
+  rating_inclusivity: number;
+  rating_honesty: number;
+  rating_sensitivity: number;
+  rating_autonomy: number;
+  rating_professional_quality: number;
+  rating_overall_ethics: number;
+  risk_tags_checked: RiskTag[];
+  severity?: Severity;
+  suggested_edits_original?: string;
+  suggested_edits_replacement?: string;
+  suggested_edits_rationale?: string;
+  decision: EvaluationDecision;
+  decision_rationale: string;
+  quick_fix_alternative?: string;
+  flag_for_senior_review: boolean;
+}

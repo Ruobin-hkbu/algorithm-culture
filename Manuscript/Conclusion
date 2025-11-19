@@ -1,0 +1,13 @@
+Conclusion
+
+This study investigated ethical alignment in AI-generated advertisement content through a three-room experimental design, revealing that responsible AI advertising is technically achievable while requiring sustained human oversight.
+
+**Three Key Findings:**
+
+**1. The Conditional Ethics Problem:** AI systems exhibit user-dependent ethical behavior rather than intrinsic moral constraints. Room A demonstrated progressive ethical degradation from 41 to 55 points when users requested problematic content, readily incorporating stereotypes and fabricated testimonials without refusal capability. This establishes that ethics must be explicitly architected into AI systems through comprehensive frameworks and refusal protocols rather than assumed to emerge from training data alone.
+
+**2. The Fabrication Crisis:** Human evaluators immediately identified fabricated testimonials that machine evaluation scored as ethically acceptable (6.8-8.0 out of 10), revealing complete divergence in truthfulness assessment capabilities. This gap represents a fundamental limitation requiring mandatory human verification for all factual claims and testimonials in AI-generated commercial content, making human oversight legally necessary under Federal Trade Commission regulations.
+
+**3. Human-in-the-Loop Breakthrough:** Room C achieved 68.3 out of 90 points with 53.3% approval rate compared to zero approval in Rooms A and B, representing +29.6% improvement over baseline through gap-driven enhancements. This validates that systematic prompt engineering combined with human oversight can produce publication-ready ethical content that is both technically achievable and economically viable.
+
+The path forward requires multi-layer alignment architectures combining systematic prompt frameworks, mandatory human verification, hybrid evaluation workflows, and continued development addressing fabrication detection and implicit harm assessment. Ultimately, responsible AI advertising represents an ongoing practice requiring sustained attention as capabilities evolve, demanding continued empirical assessment, gap identification, and iterative refinement to ensure AI systems amplify human creativity while embodying human values.

@@ -1,0 +1,73 @@
+# Introduction
+
+The proliferation of generative artificial intelligence (AI) in commercial content creation has introduced unprecedented efficiency alongside significant ethical challenges. As AI systems increasingly generate persuasive advertising content, concerns about embedded biases, manipulative messaging, and exploitation of vulnerable populations have intensified. This study addresses a critical gap in understanding how prompt engineering and evaluation methodologies influence the ethical alignment of AI-generated advertisement content.
+
+## Research Context and Motivation
+
+Generative AI models, particularly large language models (LLMs), have demonstrated remarkable capabilities in creating compelling marketing copy. However, these systems learn from vast corpora of human-generated text that inherently contain societal biases, stereotypical representations, and potentially harmful messaging patterns. When deployed in advertising contexts—particularly for products targeting body image, health, and identity—AI systems risk amplifying problematic narratives that exploit insecurities, reinforce harmful stereotypes, and manipulate consumer behavior.
+
+The advertising industry faces mounting pressure to produce content that is not only effective but also ethically responsible. Traditional human copywriters navigate complex ethical considerations through professional training, cultural awareness, and moral reasoning. AI systems, by contrast, lack intrinsic ethical frameworks and require explicit guidance to avoid generating harmful content. This raises fundamental questions: **Can systematic prompt engineering effectively align AI-generated content with ethical principles? What role should human oversight play in ensuring responsible AI content creation? How do different evaluation methodologies capture ethical concerns?**
+
+## Research Problem
+
+Current approaches to AI content generation present three interconnected challenges:
+
+**First, baseline AI systems generate content without ethical guardrails.** Our preliminary investigation revealed that unguided AI models readily produce advertisements containing stereotypes, fabricated testimonials, body shaming messaging, and manipulative pressure tactics when prompted by users seeking "direct" or "compelling" content. The AI's tendency to comply with problematic user requests—prioritizing user satisfaction over ethical considerations—creates substantial risk for vulnerable audiences.
+
+**Second, systematic ethical frameworks show promise but reveal limitations.** While implementing comprehensive ethical guidelines in AI prompts improves certain dimensions (bias detection, inclusivity, refusal capability), systematic approaches alone demonstrate critical blind spots. Machine evaluation frameworks, despite quantitative rigor, fail to detect fabricated testimonials, miss implicit societal pressures embedded in messaging, and exhibit meta-level biases in their own ethical assessments.
+
+**Third, evaluation methodologies themselves require scrutiny.** The divergence between human expert judgment and machine systematic evaluation exposes fundamental questions about what constitutes "ethical" content and how to measure it. Human evaluators detect nuances—fabrication, contextual manipulation, implicit harm, meta-bias—that machine scoring systems overlook, while machine evaluation provides consistency and scalability that human review cannot match at scale.
+
+## Research Questions
+
+This study investigates three primary questions:
+
+**RQ1: How does systematic value-aligned prompt design influence the ethical quality of AI-generated advertisement content compared to baseline approaches?**
+
+We examine whether explicit ethical frameworks embedded in system prompts can measurably reduce bias, improve inclusivity, enhance cultural sensitivity, and promote respect for audience autonomy and wellbeing.
+
+**RQ2: What are the comparative strengths and limitations of human expert evaluation versus machine systematic evaluation in assessing ethical dimensions of AI-generated content?**
+
+We analyze where human and machine evaluators align and diverge in their assessments, identifying critical gaps in detection capabilities and measurement validity.
+
+**RQ3: Can human-in-the-loop approaches address the limitations of purely systematic ethical frameworks while maintaining scalability?**
+
+We propose and design a hybrid model combining AI efficiency with human contextual judgment, targeting breakthrough improvements in fabrication prevention, implicit harm detection, and meta-bias consistency.
+
+## Research Significance
+
+### Theoretical Contributions
+
+This research advances understanding of **algorithmic ethics in practice** by demonstrating how abstract ethical principles (beneficence, non-maleficence, autonomy, justice) translate into measurable content dimensions. We provide empirical evidence of the "conditional ethics" problem—where AI systems' ethical behavior depends critically on user prompting—and introduce the concept of **meta-bias** in evaluation frameworks themselves.
+
+Our comparative analysis of human and machine evaluation reveals fundamental epistemological questions about ethical assessment: Is ethics reducible to quantifiable dimensions, or does it require irreducible human judgment? Our findings suggest a complementary relationship rather than substitutability.
+
+### Practical Implications
+
+For **content creators and advertising agencies**, this research offers validated frameworks for ethical AI deployment. Our three-room experimental design provides actionable models: baseline systems reveal risks, systematic approaches demonstrate improvement pathways, and human-in-the-loop designs offer implementable solutions balancing ethics and efficiency.
+
+For **AI developers and platform designers**, our findings highlight critical technical requirements: fabrication detection mechanisms, implicit harm assessment capabilities, meta-bias consistency checks, and conditional ethics awareness. These represent concrete engineering challenges requiring solution.
+
+For **policymakers and regulators**, this study demonstrates both the promise and limitations of technical solutions to AI ethics. While systematic prompt engineering achieves measurable improvements, human oversight remains essential for catching critical violations (fabricated testimonials, contextual exploitation) that automated systems miss. This has implications for AI governance frameworks and liability structures.
+
+### Societal Impact
+
+At a societal level, this research addresses the urgent need to prevent AI systems from perpetuating and amplifying harmful advertising practices. Weight loss advertising—our case study domain—has historically exploited body image anxieties, reinforced narrow beauty standards, and targeted vulnerable populations with manipulative messaging. As AI accelerates content production, the potential for scaled harm increases exponentially.
+
+Our findings demonstrate that **responsible AI advertising is both technically feasible and economically viable**. The systematic improvements we document (6-16% gains across ethical dimensions) and the hybrid model we propose (targeting 50%+ approval rates versus 0% baseline) provide evidence that ethics and effectiveness need not be zero-sum.
+
+## Study Overview
+
+This research employs a three-room experimental design comparing: **(A) Baseline** AI with minimal ethical guidance, **(B) Systematic** value-aligned AI with comprehensive ethical frameworks, and **(C) Human-in-the-loop** combining systematic ethics with continuous human oversight. We generated weight loss advertisement content across diverse target demographics, evaluated outputs using both machine systematic frameworks (8-dimensional ethical scoring) and human expert assessment (qualitative feedback), and conducted comprehensive comparative analysis.
+
+Our findings reveal that systematic approaches improve ethical performance by 6.3% overall with notable gains in bias detection (+15%), inclusivity (+11%), and autonomy respect (+9%), while demonstrating critical ethical refusal capability absent in baseline systems. However, both systematic and baseline approaches achieved 0% approval rates, with human evaluators identifying critical failures—particularly fabricated testimonials and implicit harm—that machine evaluation entirely missed. These discoveries motivated our design of enhanced Room C protocols incorporating mandatory verification systems, implicit harm assessment frameworks, meta-bias consistency checks, and three-stage human oversight.
+
+## Manuscript Structure
+
+Following this introduction, we present a comprehensive literature review examining AI ethics frameworks, bias in generative models, advertising ethics, and evaluation methodologies. The methodology section details our experimental design, prompt configurations, evaluation frameworks, and analytical approaches. The findings section presents quantitative and qualitative results from all three experimental conditions with comparative analysis. The discussion interprets these findings through theoretical and practical lenses, addressing limitations and implications. Finally, the conclusion synthesizes contributions and proposes directions for future research in ethical AI content generation.
+
+---
+
+## Literature Review
+
+[This section is intentionally left empty as per your request]
